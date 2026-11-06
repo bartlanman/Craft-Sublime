@@ -10,6 +10,12 @@ Create an employee handbook shaped by the lived cultural experience of **Craft S
 
 **Working design question:** How can Basic City cultivate the conditions in which people do excellent work, receive and pass along value, develop capacity, and strengthen the place and one another?
 
+## Foundational relationship (decision, November 6, 2026)
+
+**A: Craft Sublime is the philosophical foundation. B: Basic City is one particular expression of it.** The handbook translates the universal concepts into the concrete experience of employment at Basic City; it must not redefine the entire philosophy as site-specific to the brewery.
+
+The TOS repository preserves earlier formulations that describe Craft Sublime as specifically carved for Basic City. Treat those as part of the conceptual history, not as an unexamined constraint on the current project. See [TOS source review](TOS-SOURCE-REVIEW.md).
+
 ## Starting artifact
 
 [**Cultural Constitution — Draft 0.1**](CULTURAL-CONSTITUTION.md)
@@ -55,7 +61,7 @@ For each old handbook item, record: (a) what it says; (b) whether it reflects a 
 
 - [x] Establish handbook project in the Craft-Sublime repository
 - [x] Capture Cultural Constitution — Draft 0.1
-- [ ] Compare Sections I–II with the original Manifesto and Plain Glossary
+- [ ] Compare Sections I–II with the original Manifesto and Plain Glossary (TOS cross-check recorded; original standalone vault sources still needed)
 - [ ] Review the Two Hands, Grammar of the Relay, and later doctrinal corrections
 - [ ] Resolve the relational meaning of Steward vs. job responsibilities and competency evaluation
 - [ ] Read prior Handbook 2.2 and House Practices for practical substance and Basic City context, without using them as the new handbook's blueprint
