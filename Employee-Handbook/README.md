@@ -24,15 +24,21 @@ This establishes an initial statement of purpose, cultivation, the Two Hands, th
 
 The system should read as a coherent employee experience, while maintaining clear distinctions among values, policies, and procedures.
 
-## Sources and order of authority
+## Source roles and governing trajectory
 
-1. **Primary cultural source:** original Craft Sublime foundation documents in the vault.
-2. **Synthesis/entry point:** *Craft Sublime: A Dissertation* (November 5, 2026), used for navigation, lineage, cautions, and the first constitutional draft.
-3. **Operational sources:** existing Basic City house practices, field kit, department records, and the actual Crew Handbook (especially edition 2.2).
-4. **Adversarial/analytic sources:** TOS, TOS Shadow, and Meaning-Field where they expose contradictions or improve distinctions.
-5. **Current operational and legal verification:** approved procedures and applicable employment law before any policy is adopted.
+**The new handbook is not a revision of the old handbook.** The conceptual trajectory flows from the evolving Craft Sublime philosophy toward an employee experience. Earlier crew handbooks do not determine the new structure, developmental model, or meaning of Craft Sublime.
 
-Where a synthesis and a primary record disagree, **record the discrepancy** rather than silently harmonizing them. Distinguish source doctrine, proposed translation, and verified operating fact.
+1. **Evolving Craft Sublime work:** original foundation documents and subsequent conceptual developments are primary material for constructing the cultural philosophy. Later formulations are not automatically correct or final; trace changes and evaluate tensions.
+2. **Dissertation as a map, not a final canon:** *Craft Sublime: A Dissertation* (November 5, 2026) supplies synthesis, lineage, contradictions, and suggested tests. Return to the underlying sources when the constitution raises a question.
+3. **Related inquiry and critique:** TOS, TOS Shadow, Meaning-Field, and other relevant projects may illuminate, challenge, or extend the cultural understanding. Do not automatically merge different systems.
+4. **Former employee handbooks and floor guides:** historical/operational references only. Mine them for substance, illustrative Basic City context, actual practices, and lessons learned. **Do not inherit their chapter structure, vocabulary, stage assumptions, or policy choices by default.**
+5. **Present Basic City conditions:** validate any operational examples or commitments against current reality and responsible managers. Employment policies require separate legal and organizational review.
+
+Where sources differ, preserve chronology and articulate what changed. Distinguish **source-derived doctrine**, **new interpretive proposals**, **historical practices**, and **verified current operating facts**. Avoid treating a synthesis as proof of its own claims.
+
+## Historical-handbook extraction protocol
+
+For each old handbook item, record: (a) what it says; (b) whether it reflects a past or current operation; (c) useful example, process, or cultural insight; (d) any philosophical assumption that may now be superseded; and (e) whether to **adapt**, **verify**, **archive**, or **exclude**. Never silently import an old provision into the Cultural Constitution.
 
 ## Working rules
 
@@ -52,7 +58,7 @@ Where a synthesis and a primary record disagree, **record the discrepancy** rath
 - [ ] Compare Sections I–II with the original Manifesto and Plain Glossary
 - [ ] Review the Two Hands, Grammar of the Relay, and later doctrinal corrections
 - [ ] Resolve the relational meaning of Steward vs. job responsibilities and competency evaluation
-- [ ] Retrieve and audit the actual Handbook 2.2 and House Practices
+- [ ] Read prior Handbook 2.2 and House Practices for practical substance and Basic City context, without using them as the new handbook's blueprint
 - [ ] Draft the Living Culture chapters with department-level examples
 - [ ] Validate current operational practices and separate binding personnel policies
 - [ ] Obtain qualified employment-policy review and management approval
