@@ -20,6 +20,8 @@ The TOS repository preserves earlier formulations that describe Craft Sublime as
 
 [**Cultural Constitution — Draft 0.1**](CULTURAL-CONSTITUTION.md)
 
+[**Constitution Companion — Foundation Review 0.1**](CONSTITUTION-COMPANION.md) — source-grounded analysis of all nine sections, with no changes to the protected constitution.
+
 This establishes an initial statement of purpose, cultivation, the Two Hands, the Relay, making and receiving, becoming, integrity, and regeneration. It is a **proposal**, not an adopted personnel policy.
 
 ## Intended handbook system
@@ -61,6 +63,7 @@ For each old handbook item, record: (a) what it says; (b) whether it reflects a 
 
 - [x] Establish handbook project in the Craft-Sublime repository
 - [x] Capture Cultural Constitution — Draft 0.1
+- [x] Review original vault foundations and publish Constitution Companion 0.1 (no constitution edits)
 - [ ] Compare Sections I–II with the original Manifesto and Plain Glossary (TOS cross-check recorded; original standalone vault sources still needed)
 - [ ] Review the Two Hands, Grammar of the Relay, and later doctrinal corrections
 - [ ] Resolve the relational meaning of Steward vs. job responsibilities and competency evaluation
