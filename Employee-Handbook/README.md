@@ -24,6 +24,8 @@ The TOS repository preserves earlier formulations that describe Craft Sublime as
 
 This establishes an initial statement of purpose, cultivation, the Two Hands, the Relay, making and receiving, becoming, integrity, and regeneration. It is a **proposal**, not an adopted personnel policy.
 
+[**Entering the Culture — Employee Journey Draft 0.1**](ENTERING-THE-CULTURE.md) — exploratory onboarding, learning, participation and stewardship framework; not adopted personnel policy.
+
 ## Intended handbook system
 
 1. **The Living Culture:** shared purpose, ways of working, leadership expectations, learning and stewardship, and recurring practices.
