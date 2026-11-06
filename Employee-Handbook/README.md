@@ -79,6 +79,16 @@ For each old handbook item, record: (a) what it says; (b) whether it reflects a 
 - What the handbook must contain versus what belongs in operational guides
 - Who owns revisions, approval, effective dates, and distribution
 
+## Constitution change control — explicit owner sign-off required
+
+**Cultural Constitution Draft 0.1 is a protected baseline.** The founder has affirmed that its present wording, rhythm, and coherence "ring" and must be preserved.
+
+- Do **not** change `CULTURAL-CONSTITUTION.md` without Bart's explicit approval of the proposed wording.
+- New foundation/vault research may enrich our interpretation but does not automatically authorize edits.
+- Record potential changes separately as **proposals** with source evidence, rationale, and what would be gained or lost.
+- No approval can be inferred from a request to review, compare, summarize, or import sources.
+- If approved, make only the specifically approved changes and record them in the project history.
+
 ## Version discipline
 
 Drafts remain explicitly labeled until approved. Record major changes with their source, reason, and consequences for crew practice. Do not treat an AI-generated text as independent confirmation of a source claim.
