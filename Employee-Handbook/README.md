@@ -33,7 +33,7 @@ This establishes an initial statement of purpose, cultivation, the Two Hands, th
 1. [Cultural Constitution](CULTURAL-CONSTITUTION.md) — protected foundational text
 2. [The Two Marks](THE-TWO-MARKS.md) — symbolism and interpretive bridge; working draft
 3. [Entering the Culture](ENTERING-THE-CULTURE.md) — employee journey; exploratory draft
-4. **Living Culture across the campus** — next proposed chapter: people, roles, spaces, practices, and handoffs, based on verified Basic City reality
+4. [**One Place, Many Crafts**](ONE-PLACE-MANY-CRAFTS.md) — working draft grounded in the dissertation and Cultural Constitution; real crafts, encounters and relays, with operational details pending verification
 5. **Employment Framework and House Guides** — separately verified and reviewed
 
 ## Intended handbook system
@@ -89,7 +89,8 @@ Source reference only: original vault `10_Revenue_Centers/00_The_Campus_Wheel.md
 - [ ] Review the Two Hands, Grammar of the Relay, and later doctrinal corrections
 - [ ] Resolve the relational meaning of Steward vs. job responsibilities and competency evaluation
 - [ ] Read prior Handbook 2.2 and House Practices for practical substance and Basic City context, without using them as the new handbook's blueprint
-- [ ] Draft the Living Culture chapters with department-level examples
+- [x] Draft One Place, Many Crafts with dissertation and constitutional anchors (working draft; examples still to verify)
+- [ ] Develop additional Living Culture material based on verified department-level examples
 - [ ] Validate current operational practices and separate binding personnel policies
 - [ ] Obtain qualified employment-policy review and management approval
 - [ ] Pilot onboarding and daily rituals; collect staff feedback; revise
@@ -119,4 +120,4 @@ Drafts remain explicitly labeled until approved. Record major changes with their
 
 ## Next task
 
-Develop **Living Culture across the Campus** from verified Basic City examples, connecting the roles and relationships among Brewery, Taproom, Foundry, Fitchen, Showroom, and Sip City. Review earlier handbooks and House Practices for historical substance only; classify each practice as current/verified, historical, aspirational, or unresolved. Do not edit the protected Cultural Constitution without explicit approval.
+Review [One Place, Many Crafts](ONE-PLACE-MANY-CRAFTS.md) for voice and source fidelity, and validate its practical details with current team leads across Brewery, Taproom, Foundry, Fitchen, Showroom, and Sip City. Review earlier handbooks and House Practices for historical substance only; classify each practice as current/verified, historical, aspirational, or unresolved. Do not edit the protected Cultural Constitution without explicit approval.
