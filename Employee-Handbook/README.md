@@ -22,9 +22,19 @@ The TOS repository preserves earlier formulations that describe Craft Sublime as
 
 [**Constitution Companion — Foundation Review 0.1**](CONSTITUTION-COMPANION.md) — source-grounded analysis of all nine sections, with no changes to the protected constitution.
 
+[**The Two Marks — Working Draft 0.1**](THE-TWO-MARKS.md) — symbolic bridge from the constitution to the employee experience, placed immediately after the constitution in the proposed handbook sequence.
+
 This establishes an initial statement of purpose, cultivation, the Two Hands, the Relay, making and receiving, becoming, integrity, and regeneration. It is a **proposal**, not an adopted personnel policy.
 
 [**Entering the Culture — Employee Journey Draft 0.1**](ENTERING-THE-CULTURE.md) — exploratory onboarding, learning, participation and stewardship framework; not adopted personnel policy.
+
+## Proposed reading sequence
+
+1. [Cultural Constitution](CULTURAL-CONSTITUTION.md) — protected foundational text
+2. [The Two Marks](THE-TWO-MARKS.md) — symbolism and interpretive bridge; working draft
+3. [Entering the Culture](ENTERING-THE-CULTURE.md) — employee journey; exploratory draft
+4. **Living Culture across the campus** — next proposed chapter: people, roles, spaces, practices, and handoffs, based on verified Basic City reality
+5. **Employment Framework and House Guides** — separately verified and reviewed
 
 ## Intended handbook system
 
@@ -66,6 +76,7 @@ For each old handbook item, record: (a) what it says; (b) whether it reflects a 
 - [x] Establish handbook project in the Craft-Sublime repository
 - [x] Capture Cultural Constitution — Draft 0.1
 - [x] Review original vault foundations and publish Constitution Companion 0.1 (no constitution edits)
+- [x] Save The Two Marks as a separate working draft after the constitution
 - [ ] Compare Sections I–II with the original Manifesto and Plain Glossary (TOS cross-check recorded; original standalone vault sources still needed)
 - [ ] Review the Two Hands, Grammar of the Relay, and later doctrinal corrections
 - [ ] Resolve the relational meaning of Steward vs. job responsibilities and competency evaluation
@@ -100,4 +111,4 @@ Drafts remain explicitly labeled until approved. Record major changes with their
 
 ## Next task
 
-Perform a close reading of the dissertation's foundational account against the original **Manifesto** and **Plain Glossary**, beginning with Constitution Sections I–II, then revise those sections before progressing through the rest.
+Develop **Living Culture across the Campus** from verified Basic City examples, connecting the roles and relationships among Brewery, Taproom, Foundry, Fitchen, Showroom, and Sip City. Review earlier handbooks and House Practices for historical substance only; classify each practice as current/verified, historical, aspirational, or unresolved. Do not edit the protected Cultural Constitution without explicit approval.
