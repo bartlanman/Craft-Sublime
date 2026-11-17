@@ -60,6 +60,14 @@ Where sources differ, preserve chronology and articulate what changed. Distingui
 
 For each old handbook item, record: (a) what it says; (b) whether it reflects a past or current operation; (c) useful example, process, or cultural insight; (d) any philosophical assumption that may now be superseded; and (e) whether to **adapt**, **verify**, **archive**, or **exclude**. Never silently import an old provision into the Cultural Constitution.
 
+## Scope decision — no Eight Houses or Campus Wheel in the handbook
+
+The founder has explicitly excluded the **Eight Houses** from the employee handbook. Do not use the **Campus Wheel** as a structure, onboarding model, or presentation device for the handbook. Those are earlier symbolic mappings of Basic City, preserved as historical research sources, not governing architecture.
+
+The campus chapter should describe the real people, crafts, workspaces, relationships, and relays through the Cultural Constitution's existing ideas (cultivation, synergy, capacity, transparency, stewardship, regeneration) without assigning departments to mythic houses, compass directions, archetypes, or imaginary hours.
+
+Source reference only: original vault `10_Revenue_Centers/00_The_Campus_Wheel.md` (working/index, June 28, 2026) and TOS's operator-only two-ring prompt (June 30, 2026). Neither constitutes current employee-facing structure.
+
 ## Working rules
 
 - **Shape before vocabulary:** employees should be able to practice the culture without mastering its philosophical lexicon.
