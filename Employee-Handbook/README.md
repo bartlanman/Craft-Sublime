@@ -16,6 +16,13 @@ Create an employee handbook shaped by the lived cultural experience of **Craft S
 
 The TOS repository preserves earlier formulations that describe Craft Sublime as specifically carved for Basic City. Treat those as part of the conceptual history, not as an unexamined constraint on the current project. See [TOS source review](TOS-SOURCE-REVIEW.md).
 
+
+## Mythology and the birth of culture
+
+- [Constitution of Mythology — The Room Beyond the Known](MYTHOLOGY-CONSTITUTION.md) — separate philosophical draft, not an amendment to the Cultural Constitution or an employee belief requirement.
+- [Mythogenesis Master Plate — Visual Brief](MYTHOGENESIS-MASTER-PLATE-BRIEF.md) — a four-stage visual inquiry into Search, Ordeal, Telling, and Cultivation; current plate image is an unapproved concept from the accompanying conversation.
+- Master Plate V4 retains its canonical status; V5 is a dropped historical exploration used only as visual reference.
+
 ## Starting artifact
 
 [**Cultural Constitution — Draft 0.1**](CULTURAL-CONSTITUTION.md)
@@ -121,6 +128,8 @@ Source reference only: original vault `10_Revenue_Centers/00_The_Campus_Wheel.md
 Drafts remain explicitly labeled until approved. Record major changes with their source, reason, and consequences for crew practice. Do not treat an AI-generated text as independent confirmation of a source claim.
 
 ## Next task
+
+Review the mythology constitution and the mythogenesis plate concept for philosophical fidelity, legibility, and the difference between a living myth and an imposed company story. Do not change the protected Cultural Constitution without explicit approval.
 
 Review [Mythology — The Living Telling](MYTHOLOGY-CHARACTER-AND-MEANING.md), particularly the role of living character, the two marks, and the Master Plate's symbolic language. Separate actual Basic City stories from interpretive and fictional tellings; verify concrete historical claims before publication.
 
