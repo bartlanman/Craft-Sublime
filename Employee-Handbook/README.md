@@ -32,9 +32,10 @@ This establishes an initial statement of purpose, cultivation, the Two Hands, th
 
 1. [Cultural Constitution](CULTURAL-CONSTITUTION.md) — protected foundational text
 2. [The Two Marks](THE-TWO-MARKS.md) — symbolism and interpretive bridge; working draft
-3. [Entering the Culture](ENTERING-THE-CULTURE.md) — employee journey; exploratory draft
-4. [**One Place, Many Crafts**](ONE-PLACE-MANY-CRAFTS.md) — working draft grounded in the dissertation and Cultural Constitution; real crafts, encounters and relays, with operational details pending verification
-5. **Employment Framework and House Guides** — separately verified and reviewed
+3. [Mythology — The Living Telling](MYTHOLOGY-CHARACTER-AND-MEANING.md) — mythology as transmission of character and meaning, including the two marks, Meaning Field, TOS, and Master Plate lineage; working draft
+4. [Entering the Culture](ENTERING-THE-CULTURE.md) — employee journey; exploratory draft
+5. [**One Place, Many Crafts**](ONE-PLACE-MANY-CRAFTS.md) — working draft grounded in the dissertation and Cultural Constitution; real crafts, encounters and relays, with operational details pending verification
+6. **Employment Framework and House Guides** — separately verified and reviewed
 
 ## Intended handbook system
 
@@ -85,6 +86,7 @@ Source reference only: original vault `10_Revenue_Centers/00_The_Campus_Wheel.md
 - [x] Capture Cultural Constitution — Draft 0.1
 - [x] Review original vault foundations and publish Constitution Companion 0.1 (no constitution edits)
 - [x] Save The Two Marks as a separate working draft after the constitution
+- [x] Draft mythology as living telling and character/meaning transmission, preserving V4 vs dropped V5 provenance
 - [ ] Compare Sections I–II with the original Manifesto and Plain Glossary (TOS cross-check recorded; original standalone vault sources still needed)
 - [ ] Review the Two Hands, Grammar of the Relay, and later doctrinal corrections
 - [ ] Resolve the relational meaning of Steward vs. job responsibilities and competency evaluation
@@ -119,5 +121,7 @@ Source reference only: original vault `10_Revenue_Centers/00_The_Campus_Wheel.md
 Drafts remain explicitly labeled until approved. Record major changes with their source, reason, and consequences for crew practice. Do not treat an AI-generated text as independent confirmation of a source claim.
 
 ## Next task
+
+Review [Mythology — The Living Telling](MYTHOLOGY-CHARACTER-AND-MEANING.md), particularly the role of living character, the two marks, and the Master Plate's symbolic language. Separate actual Basic City stories from interpretive and fictional tellings; verify concrete historical claims before publication.
 
 Review [One Place, Many Crafts](ONE-PLACE-MANY-CRAFTS.md) for voice and source fidelity, and validate its practical details with current team leads across Brewery, Taproom, Foundry, Fitchen, Showroom, and Sip City. Review earlier handbooks and House Practices for historical substance only; classify each practice as current/verified, historical, aspirational, or unresolved. Do not edit the protected Cultural Constitution without explicit approval.
