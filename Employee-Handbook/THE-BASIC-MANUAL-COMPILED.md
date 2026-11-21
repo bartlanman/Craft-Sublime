@@ -21,23 +21,21 @@ Note: the second thread was read up to the repo setup in the browser; everything
 
 ## Reading order and plate register
 
-The proposed order opens with the Dedication, sets the Constitution as the floor, then moves through the marks, the myth, and the motion. Plate numbering is not yet consistent (two plates are labeled P1, P4 and P5 are missing, two plates are unnumbered) — the "Proposed" column is a suggestion to settle that.
+**Numbering settled (Bart, Nov 20, 2026): fill the gaps.** The three plates without a working number take the three free slots — P4, P5, P8. Every plate already numbered keeps its number. Reading order still opens with the Dedication and follows the numbers.
 
-| Proposed | Current label | Title | Carries | Status |
+| Plate | Was labeled | Title | Carries | Re-render needed |
 | --- | --- | --- | --- | --- |
-| — | Dedication (no plate no.) | διά ⇄ σύν — A Dedication to the Work | The ethic under everything: receive without possession, gather without erasure, open again | Proposed dedication, not an amendment |
-| P1 | P1 | Craft Sublime | Definitions of Craft and Sublime; "The possibility is what we cultivate" (Constitution §I in one page) | Working draft Rev. A |
-| P2 | P1 (duplicate) | The Full Ascent — The Vertical Column | The master plate compressed to one door: signal, relay, capacity, transcendence, resonance | Working draft Rev. A — renumber |
-| P3 | FIG. (no plate no.) | The Eight Stations as a Mandala / Cosmogram | Formation, transmission (eight vessels), integration (five questions), fractal architecture, revision ledger 1880–2026 | Working draft "Rev. Today" — renumber, align rev mark |
-| P4 | P6 | The Culture Plates — The Work of Tending | Constitution §§II–IX condensed | Working draft Rev. A — renumber |
-| P5 | P2 | The Two Marks | Spiral and needle; beacon and Plus Ultra; one culture, many journeys | Working draft Rev. A |
-| P6 | P3 | Mythogenesis — The Birth of Culture | Search → Ordeal → Telling → Cultivation; transmission cycle with the open seam at reception | Working draft Rev. A |
-| P7 | (no plate no.) | The Constitution of Mythology — The Room Beyond the Known | Twelve articles, condensed | Working draft 0.1 — proposal |
-| P8 | P7 | διά ⇄ σύν — The Relational Motion | The motion, the table, the ten-stage pulse, synergy/emergence/reception | Working draft Rev. A |
+| — | Dedication | διά ⇄ σύν — A Dedication to the Work | The ethic under everything: receive without possession, gather without erasure, open again | Yes — restored ending, footer fixes |
+| P1 | P1 | Craft Sublime | Definitions of Craft and Sublime; "The possibility is what we cultivate" | Small — header glosses |
+| P2 | P2 | The Two Marks | Spiral and needle; beacon and Plus Ultra; one culture, many journeys | Yes — synergy line, legend line, typos |
+| P3 | P3 | Mythogenesis — The Birth of Culture | Search → Ordeal → Telling → Cultivation; open seam at reception | Optional — one added line |
+| **P4** | (none) | The Constitution of Mythology — The Room Beyond the Known | Twelve articles, condensed | **Yes — new number** |
+| **P5** | P1 (duplicate) | The Full Ascent — The Vertical Column | The master plate compressed to one door | **Yes — new number + revisions** |
+| P6 | P6 | The Culture Plates — The Work of Tending | Constitution §§II–IX condensed | Yes — restore §VI sentence, §IV opening |
+| P7 | P7 | διά ⇄ σύν — The Relational Motion | The motion, the table, the ten-stage pulse, synergy/emergence/reception | Yes — typos |
+| **P8** | FIG. (none) | The Eight Stations as a Mandala / Cosmogram | Formation (rising spiral), eight vessels, five questions, fractal architecture | **Yes — new number + revisions, ledger removed** |
 
-**Not in the uploads but referenced in Thread 1:** a synthesis page, *The Basic City Mythology — One Culture. Many Journeys.*, that covered the first five plates. It may be the missing P4 or P5.
-
-**Alternative:** keep the current numbers and fill P4/P5 with that synthesis page and one new plate. Either way, decide before the next render so footers stop drifting.
+**Next free number: P9** — for example, the "one motion, four scales" plate from the revision pass, if it is made.
 
 ## διά ⇄ σύν — A Dedication to the Work
 
@@ -66,8 +64,12 @@ It is also what becomes possible between us, what remains capable of receiving s
 > **An opening that never gathers cannot form.** **A gathering that never opens cannot receive.**
 >
 > The work is to remain capable of both.
+>
+> *διά ⇄ σύν*
+>
+> *And open again.*
 
-**Lines from the first draft not carried onto the page** (decide whether to restore): "The work is not to resolve this tension once and for all." — and the closing "*διά ⇄ σύν* / *And open again.*"
+**Ending restored (Bart, Nov 20, 2026):** the first draft's sign-off, "*διά ⇄ σύν* / *And open again*," goes back on the page, so the Dedication ends by reopening rather than closing. Re-render the dedication page with it. Still optional: the line "The work is not to resolve this tension once and for all," which would sit just before the last line.
 
 **Why it sits first.** It does not add a requirement; it names the ethic that makes the Constitution's commitments cohere. The relay, the encounter, stewardship and regeneration are each a gathering that must stay open.
 
@@ -268,7 +270,7 @@ Each plate's text as rendered on the current image, in proposed order. Where a p
 
 **Center:** the Plus Ultra beacon (spiral-and-needle gauge on a column, Basic City Beer Co. plinth). **Banner:** CRAFT SUBLIME. **Foot line:** *The possibility is what we cultivate.*
 
-### Plate P1 (duplicate no.) — The Full Ascent: The Vertical Column
+### Plate P5 (was a second P1) — The Full Ascent: The Vertical Column
 
 **Header:** RESONANCE (the rays that light the relay) · THE FULL ASCENT / THE VERTICAL COLUMN · SIGNAL (the field broadcasting)
 
@@ -287,7 +289,7 @@ Each plate's text as rendered on the current image, in proposed order. Where a p
 
 **Center:** two pillars under a PLUS ULTRA lintel; a ship crossing ("Transcendence: the passage through the threshold is the receiver crossing"). **Banner:** *The master plate compressed to one door you can walk through.* It holds the field (sun), the relay (spiral), the capacity (pillars), the gate (threshold), resonance (rays), the witness (needle), the loop reopening (Plus Ultra), the made thing (Basic City Beer Co.), the foundation (Craft Sublime), and the enactment on the receiver.
 
-### FIG. — The Eight Stations as a Mandala / Cosmogram
+### Plate P8 (was FIG.) — The Eight Stations as a Mandala / Cosmogram
 
 **Header:** MYTHOLOGY (the structured telling — mythos and logos) · PLUS ULTRA → FURTHER BEYOND · CULTURE (sustained tending — colere). Subtitle: *Octave of Practice • Column of Signal.*
 
@@ -314,7 +316,7 @@ Each plate's text as rendered on the current image, in proposed order. Where a p
 
 **Value / Vale.** *Valere* — to be strong, to be well, to be worth. The return of the trace: what is offered is stewarded — what is stewarded is remembered — what is remembered becomes the trace — the trace returns as signal — the cycle begins again.
 
-**Revision ledger:** 1880 Initial spark (industry) · 1894 Dissolution (the town lost) · 2016 Reawakening (possibility) · 2024 Reconsecration (practice) · **2026 Recognition (alignment)** · +1 day Continuation (cycle) · +100 yr Transcendence (legacy).
+**Revision ledger — to be removed from the plate (Bart, Nov 20, 2026).** As currently rendered: 1880 Initial spark (industry) · 1894 Dissolution (the town lost) · 2016 Reawakening (possibility) · 2024 Reconsecration (practice) · 2026 Recognition (alignment) · +1 day Continuation (cycle) · +100 yr Transcendence (legacy).
 
 ### Plate P6 — The Culture Plates: The Work of Tending
 
@@ -341,7 +343,7 @@ The Two Marks chapter (section 5), condensed into an introduction beside the two
 
 **Banner:** *Valere · What we leave capable of living on.*
 
-### The Constitution of Mythology — The Room Beyond the Known (plate)
+### Plate P4 — The Constitution of Mythology: The Room Beyond the Known
 
 The twelve articles of section 6, each condensed to two or three lines, under the preamble: "Human beings have always searched—for water, gold, healing, home and meaning. Sometimes the search changes the searcher. Mythology carries such encounters into stories; Craft Sublime cultivates the conditions for them." **Banner:** *The world is not finished. There is further beyond.* Footer note: *Working Draft 0.1 — proposal, not an amendment to the Cultural Constitution.*
 
@@ -648,7 +650,7 @@ The world is not finished. There is further beyond.
 
 ## διά ⇄ σύν — The Complete Account
 
-This is where "Craft + Sublime = synergy, 1 + 1 > 2" grew into something larger: synergy names what working together can produce; διά ⇄ σύν names the relationship that lets things come together **without losing their ability to stay distinct and meet again**. It is the ethic under the mythology and the culture, and the source of Plate P8 (current P7) and the Dedication. Bart's text follows as given.
+This is where "Craft + Sublime = synergy, 1 + 1 > 2" grew into something larger: synergy names what working together can produce; διά ⇄ σύν names the relationship that lets things come together **without losing their ability to stay distinct and meet again**. It is the ethic under the mythology and the culture, and the source of Plate P7 and the Dedication. Bart's text follows as given.
 
 ### How it ties the plates together
 
@@ -694,6 +696,14 @@ The center of the Feather is the *sýmbolon* as an object: a token snapped in tw
 ### VIII. Synergy: σύν at work
 
 Synergy is *syn* + *ergon*, working together, and it belongs in this account as one beat, not the whole motion. Unlike *bállein* and *stéllein*, *ergon* takes no common διά twin: there's *syn-ergy* and *en-ergy* but no *dia-ergy*. That asymmetry is an unchecked observation, and the Greek check hasn't been run. On the Feather's terms, synergy is a gathering word with no opening, closer to `=` than to `⇄`. The corpus already knew this. The Dedication says outright that "this is where synergy becomes insufficient": the stricter measure isn't whether more happened, but what became possible between the members and whether they can still answer one another. In Bart's return map, synergy comes after the Return Guardian and before A↔B. A διά comes before it (can what crossed survive being brought back?) and a two-way arrow comes after it. So synergy is healthy as the gathering beat of a pulse, and not enough when it becomes the whole measure. The Synergy Read's best finding fits this exactly: synergy depends on *preserved difference*, and without it the result is assimilation. That is the διά inside the σύν.
+
+> **Greek check — run Nov 20, 2026 (note added; Bart's text above unchanged).** The asymmetry holds for the noun, not for the verb.
+>
+> - **The noun:** there is no classical *dia-ergia* to stand beside *synergia* and *energeia*. Modern Greek *diergasía* ("process") is a learned coinage from the verb, not an ancient word. ([Wiktionary via Kaikki](https://kaikki.org/dictionary/Greek/meaning/%CE%B4/%CE%B4%CE%B9/%CE%B4%CE%B9%CE%B5%CF%81%CE%B3%CE%B1%CF%83%CE%AF%CE%B1.html))
+> - **The verb exists:** *diergázomai* (διεργάζομαι) is classical — Herodotus, Sophocles, Euripides — and it means **"to make an end of, kill, destroy"** (Latin *conficere*). Herodotus also uses it for affairs being finished, all over. ([Middle Liddell](https://atlas.perseus.tufts.edu/dictionaries/entry/urn:cite2:scaife-viewer:dictionary-entries.atlas_v1:middle-liddell.perseus-eng2-n8348))
+> - **A near relative:** *diexergázomai* — "work out, effect" (Plato, *Laws* 798d), and "make away with." ([LSJ](https://atlas.perseus.tufts.edu/dictionaries/entry/urn:cite2:scaife-viewer:dictionaries.v1:lsj-n26608))
+>
+> **What it means for the account:** the line "no *dia-ergy*" should become "no *dia-ergy* noun." The finding is stronger than the claim. Work carried *through* to its end, with no gathering after, is not a missing word; it is a word for **finishing off** — the same pattern as *diábolos* in the table: διά with no σύν becomes ending or division. The interpretive step is ours; the lexicon only gives the meanings.
 
 ### IX. Emergence, and what it isn't
 
@@ -1034,7 +1044,7 @@ The one fixed rule: **the Cultural Constitution doesn't change without Bart's ex
 | --- | --- | --- |
 | Vertical Column, IX | Nec plus ulrae | *Nec plus ultra* |
 | Vertical Column, footer | Scale: 1:1 (REAL PHYHIC) | 1:1 (READ TWICE) |
-| Vertical Column + Craft Sublime | both labeled PLATE P1 | renumber (section 2) |
+| Vertical Column + Craft Sublime | both labeled PLATE P1 | Vertical Column → PLATE P5 |
 | Eight Stations, footer | REV. TODAY | REV. A (match the set) |
 | P2 Two Marks, intro | peroonal journey | personal journey |
 | P2 Two Marks, intro | deve·op·ng capability | developing capability |
@@ -1051,17 +1061,7 @@ The one fixed rule: **the Cultural Constitution doesn't change without Bart's ex
 
 ### Decisions open
 
-- [ ] Settle plate numbering (proposed P1–P8 in section 2, or fill P4/P5)
-- [ ] Locate or re-render the "One Culture. Many Journeys." synthesis page
-- [ ] Restore or drop the Dedication's first-draft closing lines
-- [ ] Reconcile P6 with the Constitution (§IV opening words; §VI dropped sentence)
-- [ ] Approve the Dedication as the manual's opening page
-- [ ] Run the Greek check on *ergon* having no διά twin (flagged unchecked in the account)
-- [ ] Verify Basic City history before telling it as fact (1880 / 1894 / 2016 / 2024 ledger, building, water)
-- [ ] Verify the Pillars of Hercules / Plus Ultra attribution
-- [ ] Confirm department practices with team leads (Brewery, Taproom, Foundry, Fitchen, Showroom, Sip City)
-- [ ] Draft Book II (Employment Framework) with legal review, and Book III (House Guides)
-- [ ] Pilot the before / during / handoff / after rhythm with a small cross-department group
+- [x] Greek check on *ergon* — done: no ancient *dia-ergy* noun, but the verb *diergázomai* means "finish off, kill" (note under account §VIII)
 
 ### Sources
 
@@ -1069,3 +1069,147 @@ The one fixed rule: **the Cultural Constitution doesn't change without Bart's ex
 - Thread 2: [Craft Sublime Handbook Approach](https://chatgpt.com/c/6aede23d-c5b8-83ea-a7de-34d9efeafbd8)
 - Repo: [bartlanman/Craft-Sublime — Employee-Handbook](https://github.com/bartlanman/Craft-Sublime/tree/main/Employee-Handbook)
 - The nine plate images uploaded with this request
+
+## Working backwards — revision pass
+
+We start from the newest pages and walk back to P1, testing each plate against the standard the later pages set. Nothing below has been changed on the plates; every item is a **proposal** with its effect noted. The Cultural Constitution is not touched.
+
+### Step 0 — The standard (Dedication + P7)
+
+The latest pages settle five rules. Every earlier plate is checked against them.
+
+| # | Rule | Source line |
+| --- | --- | --- |
+| R1 | **Two-way motion; spiral, not circle.** Returns come back changed. | "A return with difference (not a closed circle)." |
+| R2 | **Receive without possession.** *Events may be witnessed as happening to all; the receiver's meaning is never assigned. (Vault layers: event · apprehension · mythic rendering.)* | "Participation cannot be compelled by invitation." |
+| R3 | **Gather without erasure.** Synergy is a gathering beat, not the whole measure; difference is kept. | "Synergy is healthy as a gathering beat; it is not enough." |
+| R4 | **Open again.** Form makes things reachable, not final; no arrival, no final title. | "Formed, bounded, and so reachable again." |
+| R5 | **Mark the claim.** Fact, reading and hope are labeled as such (from the Constitution of Mythology, same week). | "The miraculous is possible, not promised." |
+
+**Fixes to the standard itself:** P7 typos ("agathering", "built fo.", stray underlines). The διά ⇄ σύν account says every plate's foot band carries `=` / `→` / `⇄`; no plate does. **Proposal:** add the three marks to every footer. *Effect:* the R1 rule becomes visible on every page, and each plate quietly shows which mode it is in.
+
+### Step 1 — The Constitution of Mythology
+
+**Result: passes all five rules. No changes.** It is the source of R5, and Articles II, VII and X already state R2. One optional addition: a line in Article VI naming the symbol as *sýmbolon* — the half-token that fits only when someone brings the other half. *Effect:* ties the article directly to P7's table and to "capacity is the reader's half."
+
+### Step 2 — P3 Mythogenesis
+
+**Result: passes.** Open seam (R2), spiral return (R1), counterpoints marked as context (R5).
+
+**Proposed addition** — one line under the transmission cycle: *"The same pulse at the scale of a culture: the Search opens (διά), the Telling gathers (σύν + bállein = symbol), Reception opens again."*
+
+*Effect:* P3 stops being a separate model and becomes the cultural-scale reading of P7. Quadrant III ("symbol as compressed, re-openable meaning") turns out to be the *sýmbolon* already — the plates were agreeing before they knew it.
+
+### Step 3 — P2 The Two Marks
+
+Two conflicts with the standard.
+
+**a. Synergy (R3).** Now: "The spiral also represents **synergy**." Proposed: *"The spiral also holds **synergy** — its gathering beat. But the spiral does not only gather. It opens again, and what it gathers keeps its difference."* The paragraph after it ("Synergy does not require everyone to become the same") stays as is; it already says R3.
+
+*Effect:* P2 and P7 now agree on what the spiral is (⇄, not just σύν). P1's "Contribute beyond individual contribution" gains a correct reading: beyond adding, toward opening capacity in others.
+
+**b. The old warning (R5).** Now: "The old warning declared that there was nothing further." Proposed: *"Later legend set a warning at the pillars: there is nothing further."*
+
+*Effect:* the story keeps its force and stops claiming an ancient inscription that isn't attested. Also fixes the Two Marks chapter in the repo, which shares this text.
+
+Plus the typo fixes from the proofing table.
+
+### Step 4 — P6 The Culture Plates (the Constitution)
+
+**Result: the Constitution passes all five rules as written.** §VI already says stewardship is "not a permanent label" (R4); §V says we "do not presume to determine what another person must experience" (R2).
+
+The only conflict is that **the plate drops the line that makes §VI pass.** Proposed: restore "Stewardship is not a permanent label that establishes one person's greater human worth or belonging," and match §IV's opening to the Constitution.
+
+*Effect:* this is the important finding of the first half — **the protected floor already meets the later standard.** Working backwards changes nothing in the Constitution; it only shows the plate trimmed the wrong sentence.
+
+### Step 5 — The Eight Stations (cosmogram)
+
+**Result: fails R1, R3/R4 and R5, and conflicts with P7 on a core term. This plate takes the most change.** But almost nothing has to be removed — most items flip into agreement with one relabel.
+
+| Element | Now | Proposed | Rule |
+| --- | --- | --- | --- |
+| Formation title | THE ALIGNED COLUMN | FORMATION — THE RISING SPIRAL | R4 |
+| Formation line | Visitor → Initiate → Regular → Insider → Steward | Visitor → Initiate → Regular → Insider → Steward, drawn as one turn of a rising spiral, Steward opening onto Visitor at the next turn — *direction without rank; each return comes back with more capacity* | R4 |
+| Second line | Pride → Humility → Reverence | *Keep, set on the same spiral: pride → humility → reverence, met again at every turn* | R1, R4 |
+| Śruti | ŚRUTI – CLEARING = remove noise, reveal signal | ŚRUTI – RECEPTION = that which is heard; clearing makes room to hear | P7 |
+| Alignment gauge | 0° dissonance (out of phase) · 90–135° consonance · 180° dissonance | 0° **fusion** — σύν without διά (erasure) · 90–135° **consonance** — the pulse · 180° **division** — διά without σύν (*diábolos*) | R3, P7 |
+| Bridge loop | A → B → C → D → E → A, "repeat" | A → B → C → D → E → **A′**, "returns with difference", drawn as a rising spiral | R1 |
+| Return of the trace | …the trace returns as signal — the cycle begins again | …the trace returns as signal — the cycle begins again, **changed** | R1 |
+| Vessels caption | (none) | *Voices in the relay, not job titles. Each stays itself: gather without erasure.* | R3 |
+| Revision ledger (whole band) | 1880 → 2026, +1 day, +100 yr | Remove from the plate (Bart's decision) | R5 |
+| Footer | REV. TODAY | REV. A | — |
+
+**What these changes do**
+
+- **The gauge becomes the bridge between old and new.** Its odd labels (0° as "out of phase") were the physics error. Relabeled, it is the clearest picture in the manual of διά ⇄ σύν: total togetherness is erasure, total apartness is division, and life is in between. The gauge was drawing the Dedication before the Dedication existed.
+- **Śruti agrees across the manual.** Signal still "descends" on the left rail — it is what is heard — and poiesis still ascends. The rails now read as P7's sequence split into two directions instead of a rival definition.
+- **The ladder becomes a rising spiral (Bart's ruling).** The spiral keeps the direction and the upward pull, and removes the rank: no one is above anyone, because everyone is on the same curve and every Steward enters the next turn as a Visitor. It also matches the account's own rule that the return is "always drawn as a rising spiral, never a closed circle." That brings this plate in line with P2 ("stewardship is not a final title") and the Constitution §VI.
+- **The vessels connect to the account.** Section VI of the διά ⇄ σύν account ("Rishi has to stay Rishi enough to correct the Architect") is about exactly these voices. The caption makes that link instead of leaving the vessels orphaned.
+- **What is lost:** nothing here — the spiral keeps the ladder's pull and drops its hierarchy.
+
+### Step 6 — The Vertical Column
+
+**Result: fails R5 in places.** The structure is sound — the gate already "is the open doorway, not the end" (IX) and the cycle "refuses to close" (R1). The *fixes are about marked claims and forced ascent, not the door's voice*.
+
+| Panel | Now | Proposed | Rule |
+| --- | --- | --- | --- |
+| I | All five are present and active. | All five are offered. Resonance waits on reception. | R2 |
+| Center | The passage through the threshold is the receiver crossing. | The passage through the threshold is where the receiver *may* cross. | R2 |
+| III | Pillars of Hercules → Bacon → the campus → the patron crossing tonight. The same crossing at every scale. | The same threshold, told at every scale: the Pillars, Bacon's inquiry, the campus, the patron tonight. *A telling, not a lineage.* | R5 |
+| VI | …the unmoving awareness that reads the whole turning without becoming any of it. | Keep, and add: *The needle is apparatus, not crown: it witnesses the pulse; it does not rule it.* | P7 |
+| X | Enactment on the receiver … The image performs the cycle on whoever passes. | **No change. Withdrawn after reading the vault: this is the Mythos voice witnessing an event, not a claim about the guest's experience (see note below)**. | R2 |
+| XI | SUBLIME = SUB-LIMEN. "Up to the threshold." | One reading of *sublime*: sub + limen, "up to the threshold" (the etymology is debated). The practice takes you up to the crossing — not across it. | R5, R2 |
+| Footer | Nec plus ulrae · 1:1 (REAL PHYHIC) | Nec plus ultra · 1:1 (READ TWICE) | — |
+
+**What these changes do**
+
+- **Panel X stays as written (correction).** The vault separates three layers: the event (a threshold is crossed), human apprehension (what a person notices or feels), and mythic rendering (the figure that makes the pattern visible). Mythos is not allegory; the image is "the same pattern at another scale" and "participates in what it renders." Every guest does physically cross a threshold, so the image does enact the cycle on whoever passes. What the Constitution of Mythology protects is the second layer, the guest's meaning, and panel X never claims it. The Mythos voice (no "I", present tense, standing slightly ahead) witnesses; per the Mythos hard controls it "may recognize a whole, not manufacture one." The vault also notes that symbols carry signal "without triggering the conscious defense" of the receiver, which is why it works whether or not the guest notices.
+- **XI gets stronger, not weaker.** "Up to the threshold — not across it" says what Craft Sublime can and can't do: craft brings someone to the edge; the crossing is theirs. That is R2 in three words, and it was hiding in the plate's own etymology.
+- **The needle settles.** The still axis no longer competes with P7's "no fixed point." It is the `=` the account kept as apparatus: necessary for reading the motion, not the motion itself.
+- **What is lost:** nothing on panel X. The changes to panels I, III, XI and the center still stand, and the vault's Mythos hard controls back two of them: "no etymological destiny" (XI) and "no forced ascent" (the center's "is the receiver crossing").
+
+### Step 7 — P1 Craft Sublime
+
+**Result: nearly passes.** "The possibility is what we cultivate" is R2 and R4 in one line. Two small changes.
+
+| Element | Now | Proposed |
+| --- | --- | --- |
+| Header gloss, Craft | the capacity of doing | the capacity of making |
+| Header gloss, Sublime | the encounter beyond the ordinary | what may arise beyond the ordinary |
+| Header center | CONTRIBUTE BEYOND INDIVIDUAL CONTRIBUTION | Keep. After Step 3 it reads correctly: contribution that opens capacity in others, not just adds to a total. |
+
+*Effect:* the glosses match the body text and P7's header, so every plate defines Craft and Sublime the same way. And because the backward pass ends where the manual begins, P1 now points cleanly forward: its last line ("the possibility is what we cultivate") hands straight to the Dedication's first ("we dedicate this work to the possibility…").
+
+### What the changes do to the whole manual
+
+**The manual becomes one argument instead of two eras.** After the pass, every plate passes all five rules, and the contradictions from the review close:
+
+| Contradiction | Closed by |
+| --- | --- |
+| Śruti = clearing vs reception | Step 5 relabel |
+| Synergy as the point vs a beat | Step 3a |
+| Ladder vs "not a rank" | Step 5 formation |
+| Myth done to the guest vs received | Not a contradiction (corrected): the event happens to all; meaning stays the receiver's. Panel X stays; panels I and center adjusted |
+| Closed loops vs spiral | Step 5 bridge and trace |
+| Unmarked history and etymology | Steps 3b, 6 III and XI; ledger removed |
+| Missing foot-band marks | Step 0 |
+| Header glosses drift | Step 7 |
+
+**Three things the pass surfaced that weren't visible going forward:**
+
+1. **The protected Constitution already met the later standard.** Only the plate's trimming broke it. The floor held.
+2. **The early plates had the later ideas in them.** The gauge was drawing fusion and division; P3's symbol was already the *sýmbolon*; "sub-limen" already said *up to* the threshold. The revisions mostly name what was there.
+3. **The sequences start to line up.** With Śruti fixed and P3 read as the pulse at culture scale, the eight sequences reduce to one motion at different scales: P7 (the body), Eight Stations (a practice), P3 (a culture), the Vertical Column (a threshold). That gives the missing concordance page its spine — a natural new plate.
+
+**What is lost:**
+
+- Some certainty in the origin story: the Pillars warning and sub-limen are told as legend rather than history.
+
+The ladder and the door voice were resolved without loss (rising spiral; Mythos voice). The origin story remains the one open trade-off.
+
+**Decisions to make before re-rendering:**
+
+- [ ] Formation and Pride → Humility → Reverence: decided — drawn as a rising spiral
+- [ ] Door language: decided — panel X stays in the Mythos voice
+- [ ] Add the `=` / `→` / `⇄` foot band to every plate
+- [ ] Make the concordance plate (one motion, four scales) as the new P4 or P5
