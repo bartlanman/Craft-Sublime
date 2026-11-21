@@ -23,6 +23,10 @@ The TOS repository preserves earlier formulations that describe Craft Sublime as
 - [Mythogenesis Master Plate — Visual Brief](MYTHOGENESIS-MASTER-PLATE-BRIEF.md) — a four-stage visual inquiry into Search, Ordeal, Telling, and Cultivation; current plate image is an unapproved concept from the accompanying conversation.
 - Master Plate V4 retains its canonical status; V5 is a dropped historical exploration used only as visual reference.
 
+## Compiled manual
+
+[**The Basic Manual — Compiled Working Draft**](THE-BASIC-MANUAL-COMPILED.md) — one document bringing together the nine Basic Manual plates (transcribed), the διά ⇄ σύν Dedication and account, the protected Cultural Constitution (verbatim), The Two Marks, the Constitution of Mythology, the handbook chapters, the plate production standard, and the open proofing/decision list. Working draft; does not amend the Cultural Constitution.
+
 ## Starting artifact
 
 [**Cultural Constitution — Draft 0.1**](CULTURAL-CONSTITUTION.md)
